@@ -10,7 +10,11 @@
 <body>
     <div>
     The first web site<br />
+<<<<<<< HEAD
     This is added line for direct update in production
+=======
+    This is the new line from the development.
+>>>>>>> origin/test
     </div>
 </body>
 </html>
