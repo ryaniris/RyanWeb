@@ -9,7 +9,8 @@
 </head>
 <body>
     <div>
-    The first web site
+    The first web site<br />
+    This is the new line from the development.
     </div>
 </body>
 </html>
